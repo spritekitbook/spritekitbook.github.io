@@ -7,7 +7,7 @@ published: true
 
 
 <p>
-	<a href="http://www.amazon.com/gp/product/B01BB2U0PA" target="_blank"><img src="http://spritekitbook.github.io/images/epic-spritekit-tutorial-swift.png" width="25%"></a>
+	<a href="http://www.amazon.com/gp/product/B01BB2U0PA" target="_blank"><img src="http://imgur.com/4VUMDeF.jpg" width="25%"></a>
 </p>
 
 ## Epic SpriteKit Tutorial with Swift
