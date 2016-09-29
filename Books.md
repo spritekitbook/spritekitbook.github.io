@@ -10,7 +10,7 @@ published: true
 	<a href="http://www.amazon.com/gp/product/B01BB2U0PA" target="_blank"><img src="http://imgur.com/4VUMDeF.jpg" width="25%"></a>
 </p>
 
-## Epic SpriteKit Tutorial with Swift
+## Epic SpriteKit Tutorial with Swift 3.0
 
 Learn Apple's game engine called SpriteKit together with Swift 3.0. Along the way I'll introduce you to some programming concepts that make your code easier to write, read, re-use and will make your game more robust. 
 
@@ -35,7 +35,7 @@ Available as an eBook on these stores.
 	<a href="http://www.amazon.com/gp/product/B01C7Q7K48" target="_blank"><img src="http://spritekitbook.github.io/images/flappybird-swift.png" width="25%"></a>
 </p>
 
-## Make a game like Flappy Bird with Swift
+## Make a game like Flappy Bird with Swift 3.0
 
 Learn to make a clone of the infamous Flappy Bird with SpriteKit and Swift in this step by step tutorial book.
 
