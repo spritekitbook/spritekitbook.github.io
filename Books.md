@@ -7,7 +7,7 @@ published: true
 
 
 <p>
-	<a href="http://www.amazon.com/gp/product/B01BB2U0PA" target="_blank"><img src="http://spritekitbook.github.io/images/epick-spritekit-tutorial-swift.jpg" width="25%"></a>
+	<a href="http://www.amazon.com/gp/product/B01BB2U0PA" target="_blank"><img src="http://spritekitbook.github.io/images/epic-spritekit-tutorial-swift.jpg" width="25%"></a>
 </p>
 
 ## Epic SpriteKit Tutorial with Swift 3.0
@@ -70,11 +70,4 @@ Available as an eBook on these stores.
 <p align="center">
 	<a href="http://www.amazon.com/gp/product/B01CUW63L0" target="_blank"><img src="http://spritekitbook.github.io/images/amazonbadge.png"></a>
 	<a href="https://itunes.apple.com/us/book/id1092729922" target="_blank"><img src="http://spritekitbook.github.io/images/itunesbadge.png"></a>
-</p>
-
-
-<br/><br/>
-
-<p>
-	<a href="http://www.amazon.com/gp/product/B01D5EH39S" target="_blank"><img src="http://spritekitbook.github.io/images/timberman-objc.png" width="25%"></a>
 </p>
